@@ -1,5 +1,5 @@
 # Analysis and Synthesis of Algorithms (ASA)
-## MSc degree of Computer Science & Engineering @ Instituto Superior Técnico
+## Bachelor of Computer Science & Engineering @ Instituto Superior Técnico
 Project, Distribution Network
 <br><br>
 
