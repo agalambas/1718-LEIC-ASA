@@ -1,6 +1,3 @@
-# 1718-LEIC-ASA
-, Project - Distribution Network
-
 # Analysis and Synthesis of Algorithms (ASA)
 ## MSc degree of Computer Science & Engineering @ Instituto Superior Técnico
 Project, Distribution Network
